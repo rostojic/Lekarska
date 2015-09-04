@@ -1,7 +1,7 @@
 # Lekarska
 Novi program za lekarsku ordinaciju
 Client
----------------------------------
+dodaj nešto---------------------------------
 HTML
 Bootstrap
 AngularJS
